@@ -7,16 +7,22 @@ This video introduces the course and covers some basic concepts.
 
 ## [YouTube video 1](https://youtu.be/gSsT9T0NRpM)
 
-# Unit 2 Shareholder value
+# Unit 2: Shareholder value
 We discuss shareholder value and the stakeholder perspective. Should we focus on stakeholders or long-term value creation?
 
 ## [YouTube video 2](https://youtu.be/duK28xqSSsI)
 
-# Unit 3 NOPLAT
+# Unit 3: NOPLAT
 We discuss NOPLAT, the net operating profit less adjusted taxes. This is a useful measure to capture a company's income from its core operations.
 
 ## [YouTube video 3](https://youtu.be/KBeAI0igtko)
 
-# Unit 4 ROIC
+# Unit 4: Return on invested capital (ROIC)
+We introduce ROIC, the return on invested capital. ROIC is a measure of a firm's profitability. We highlight all components of invested capital (IC) and their adjustments.
 
-## [YouTube video 4]()
+## [YouTube video 4](https://youtu.be/N88HqPIePac)
+
+# Unit 5: Cash Flows
+We derive cash flows, which are essential to determine firm value. Cash flows refer to NOPLAT minus the change in invested capital.
+
+## [YouTube video 5](https://youtu.be/Wtws6OZstvk)
